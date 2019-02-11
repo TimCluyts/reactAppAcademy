@@ -1,0 +1,15 @@
+# Coverage directory used by tools like istanbul / test results / lint results
+eslint.json
+jest.json
+Coverage
+
+# Dependency directory
+node_modules
+
+#Built folders
+build
+dist
+
+#VS Code launch files
+.vscode
+.npmrc
